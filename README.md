@@ -26,3 +26,5 @@ Account Icon for @alex: Gabriel @lastrosestudios
 All above icons from materialdesignicons.com
 
 Whale Icon: <a href="https://www.flaticon.com/free-icons/cute" title="cute icons">Cute icons created by BomSymbols - Flaticon</a>
+
+404 page from https://codepen.io/kaypooma/pen/OJJBGy
